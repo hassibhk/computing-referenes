@@ -4,6 +4,6 @@
 
 ## System Design
 
-[System Design Premier] (https://github.com/donnemartin/system-design-primer)
+[System Design Premier](https://github.com/donnemartin/system-design-primer)
 
 
